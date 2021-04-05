@@ -1,0 +1,6 @@
+com\magna\bdd\SetUP.class
+com\magna\bdd\steps\Hooks.class
+com\magna\bdd\steps\WURegistrationSteps.class
+com\magna\bdd\pages\WURegistrationPage.class
+com\magna\bdd\runner\TestRunner.class
+com\magna\bdd\pages\CommonComponents.class
